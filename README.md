@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything.
 - 📫 How to reach me: call me
 - 😄 Pronouns: he/him/they
-- ⚡ Fun fact: I love chicken
+- ⚡ Fun fact: I love chicken.
 -->
