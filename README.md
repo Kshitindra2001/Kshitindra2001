@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Apple.
-- 🌱 I’m currently learning new techonolgy on  macOS .
+##  🔭 I’m currently working on Apple.
+##  🌱 I’m currently learning new techonolgy on  macOS .
 - 👯 I’m looking to collaborate with Google.
 - 🤔 I’m looking for a groom .
 - 💬 Ask me about anything.
